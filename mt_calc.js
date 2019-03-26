@@ -5,8 +5,8 @@
    Tutorial 11
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Ryan C Burkhart
+   Date: 3/25/19  
    
    Filename: mt_calc.js
 	
@@ -33,7 +33,11 @@
 
 */
 
+window.onload = init;
 
+function init() {
+      var calcButtons = document.querySelectorAll("calcButtons");
+}
 
 
 
